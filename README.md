@@ -18,3 +18,6 @@ Also provide a pre-build server exe which uses `local CDN`. Please get my repack
   
 此外, 外部的CDN似乎都失效了, 為了能獨立運作不仰賴他人, 我將server設定成使用local CDN, 你能直接下載編譯好的 [Server執行檔](https://github.com/Misora000/elichika/releases/download/BlueStacks_Client/elichika_win_x64.7z) 與我重新包裝好的 [CDN檔案](https://archive.org/details/ll-sifas-local-cdn-data-elichika), 將CDN檔案解開後覆蓋原本elichika目錄內的static即可啟動elichika.exe, 然後打開BlueStacks安裝APK就能享受遊戲
 
+
+![Snipaste_2025-08-02_17-57-03](https://github.com/user-attachments/assets/a0ea9e4a-8d33-4a81-b2cb-9730194e45bb)
+
